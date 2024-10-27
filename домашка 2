@@ -1,0 +1,24 @@
+# "1stProgram"
+print(9 ** 0.5 * 5)
+#"2ndProgram"
+print(9.99 > 9.98 != 1000.1)
+#3rdProgram
+print(2 * 2 + 2)
+print(2 * (2 + 2))
+print(2 * 2 + 2 == (2*2+2))
+# "4thProgram"
+print( type (123.456))
+print(4)
+print("123.456")
+print(int(float('123.456') * 10) % 10)
+
+
+
+
+
+
+
+
+
+
+
